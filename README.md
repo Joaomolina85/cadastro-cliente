@@ -1,3 +1,3 @@
 # cadastro-cliente
 
-*teste
+ teste
