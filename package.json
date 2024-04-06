@@ -1,0 +1,22 @@
+{
+  "name": "cadastro_cliente",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "João Molina",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "express": "^4.19.2",
+    "jest": "^29.7.0",
+    "mysql2": "^3.9.3",
+    "sequelize": "^6.37.2"
+  },
+  "devDependencies": {
+    "cpf-cnpj-validator": "^1.0.3",
+    "supertest": "^6.3.4"
+  }
+}
